@@ -1,0 +1,5 @@
+{"file":"checkbox.png","frames":{
+"select_disabled_png":{"x":52,"y":52,"w":23,"h":23,"offX":0,"offY":0,"sourceW":23,"sourceH":23},
+"select_down_png":{"x":0,"y":0,"w":51,"h":50,"offX":0,"offY":0,"sourceW":51,"sourceH":50},
+"select_up_png":{"x":53,"y":0,"w":51,"h":50,"offX":0,"offY":0,"sourceW":51,"sourceH":50},
+"unselect_png":{"x":0,"y":52,"w":50,"h":50,"offX":0,"offY":0,"sourceW":51,"sourceH":50}}}

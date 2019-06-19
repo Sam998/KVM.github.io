@@ -1,0 +1,12 @@
+{"file":"zuanshibao.png","frames":{
+"anniu_lingjiangli_png":{"x":436,"y":410,"w":69,"h":26,"offX":0,"offY":0,"sourceW":69,"sourceH":26},
+"anniu_yaokabao_png":{"x":436,"y":382,"w":69,"h":26,"offX":0,"offY":0,"sourceW":69,"sourceH":26},
+"bg_zuanshibao_png":{"x":0,"y":0,"w":503,"h":176,"offX":0,"offY":0,"sourceW":503,"sourceH":176},
+"btn_yaokabao_png":{"x":377,"y":242,"w":110,"h":62,"offX":0,"offY":0,"sourceW":110,"sourceH":62},
+"btn_yaokabao2_png":{"x":377,"y":178,"w":110,"h":62,"offX":0,"offY":0,"sourceW":110,"sourceH":62},
+"img_dahongbaodi_png":{"x":0,"y":275,"w":167,"h":198,"offX":0,"offY":0,"sourceW":167,"sourceH":198},
+"img_dahongbaokou_png":{"x":338,"y":306,"w":65,"h":74,"offX":0,"offY":0,"sourceW":65,"sourceH":74},
+"img_hengtiao_png":{"x":0,"y":178,"w":375,"h":95,"offX":0,"offY":0,"sourceW":375,"sourceH":95},
+"img_xiaohongbaodi_png":{"x":169,"y":275,"w":167,"h":198,"offX":0,"offY":0,"sourceW":167,"sourceH":198},
+"img_xiaohongbaokou_png":{"x":405,"y":306,"w":65,"h":74,"offX":0,"offY":0,"sourceW":65,"sourceH":74},
+"title_zuanshikabao_png":{"x":338,"y":382,"w":96,"h":31,"offX":0,"offY":0,"sourceW":96,"sourceH":31}}}

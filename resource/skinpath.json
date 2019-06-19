@@ -1,0 +1,43 @@
+{
+	"preload": {
+		"CircleTimerSkin": "resource/skins/common/CircleTimerSkin.exml",
+		"ButtonUnderlineSkin": "resource/skins/common/ButtonUnderlineSkin.exml",
+		"StarsPanelSkin": "resource/skins/common/StarsPanelSkin.exml",
+		"MapPreviweBtnSkin": "resource/skins/common/MapPreviweBtnSkin.exml"
+	},
+	"others": {
+		"skins.ButtonSkin": "resource/eui_skins/ButtonSkin.exml",
+		"skins.CheckBoxSkin": "resource/eui_skins/CheckBoxSkin.exml",
+		"skins.HScrollBarSkin": "resource/eui_skins/HScrollBarSkin.exml",
+		"skins.HSliderSkin": "resource/eui_skins/HSliderSkin.exml",
+		"skins.ItemRendererSkin": "resource/eui_skins/ItemRendererSkin.exml",
+		"skins.PanelSkin": "resource/eui_skins/PanelSkin.exml",
+		"skins.ProgressBarSkin": "resource/eui_skins/ProgressBarSkin.exml",
+		"skins.RadioButtonSkin": "resource/eui_skins/RadioButtonSkin.exml",
+		"skins.ScrollerSkin": "resource/eui_skins/ScrollerSkin.exml",
+		"skins.TextInputSkin": "resource/eui_skins/TextInputSkin.exml",
+		"skins.ToggleSwitchSkin": "resource/eui_skins/ToggleSwitchSkin.exml",
+		"skins.VScrollBarSkin": "resource/eui_skins/VScrollBarSkin.exml",
+		"skins.VSliderSkin": "resource/eui_skins/VSliderSkin.exml",
+		"LoginInnerSkin": "resource/skins/LoginInnerSkin.exml",
+		"LoginOutnetPlayerSkin": "resource/skins/LoginOutnetPlayerSkin.exml",
+		"GmSkin": "resource/skins/GmSkin.exml",
+		"GmLogMessageSkin": "resource/skins/GmLogMessageSkin.exml",
+		"GuideDescSkin": "resource/skins/GuideDescSkin.exml",
+		"GuideArrowSkin": "resource/skins/GuideArrowSkin.exml",
+		"GuideArrowDescSkin": "resource/skins/GuideArrowDescSkin.exml",
+		"GuideFingerSkin": "resource/skins/GuideFingerSkin.exml",
+		"SysDialogPromptSkin": "resource/skins/SysDialogPromptSkin.exml",
+		"objTipsSkin": "resource/skins/objTipsSkin.exml",
+		"RankSkin": "resource/skins/RankSkin.exml",
+		"ObjItemSkin": "resource/skins/ObjItemSkin.exml",
+		"SettingsSkin": "resource/skins/SettingsSkin.exml",
+		"SettingsItemSkin": "resource/skins/SettingsItemSkin.exml",
+		"LobbySkin": "resource/skins/LobbySkin.exml",
+		"StudySkin": "resource/skins/StudySkin.exml",
+		"ExamSkin": "resource/skins/ExamSkin.exml",
+		"ExamInfoSkin": "resource/skins/ExamInfoSkin.exml",
+
+		"NetConnectCloseSkin": "resource/skins/NetConnectCloseSkin.exml"
+	}
+}
